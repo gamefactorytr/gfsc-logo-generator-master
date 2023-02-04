@@ -61,7 +61,7 @@ class App extends Component {
               onLoad={() => {
                 this.drawImage()
               }}
-              src={this.state.colorful ? "Logo.svg" : "Logo.png"}
+              src={this.state.colorful ? "Logo.svg" : "Logo.svg"}
               alt={`DSC Icon`}
             />
           </div>
